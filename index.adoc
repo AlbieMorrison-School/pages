@@ -6,3 +6,4 @@
 === CS-4430: Machine Learning & Intelligent Agents
 
 * link:cedarville/cs-4430/p4.html[Project 4]
+* link:cedarville/cs-4430/p5.html[Project 5]
