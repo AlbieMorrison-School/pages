@@ -3,6 +3,10 @@
 
 == Cedarville
 
+=== EGCP-4810: Senior Design I -- Computer Engineering
+
+* link:cedarville/egcp-4810/Music_ProjectProposal.html[Music Device Proposal]
+
 === CS-4430: Machine Learning & Intelligent Agents
 
 * link:cedarville/cs-4430/p4.html[Project 4]
