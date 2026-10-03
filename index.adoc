@@ -11,3 +11,8 @@
 
 * link:cedarville/cs-4430/p4.html[Project 4]
 * link:cedarville/cs-4430/p5.html[Project 5]
+
+=== CS-4310: Computer Networks
+
+* link:cedarville/egcp-4310/pa1.html[Programming Project 1]
+
